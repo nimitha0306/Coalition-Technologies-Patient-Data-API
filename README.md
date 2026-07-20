@@ -83,7 +83,7 @@ graph LR
 Clone & Install:
 
 ```PowerShell
-git clone [https://github.com/salonyranjan/ct-patient-data-dashboard.git](https://github.com/salonyranjan/ct-patient-data-dashboard.git)
+git clone [https://github.com/nimitha0306/Coalition-Technologies-Patient-Data-API]
 cd ct-patient-data-dashboard
 npm install --legacy-peer-deps
 ```
